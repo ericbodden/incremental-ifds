@@ -1,0 +1,3898 @@
+Starting addCallNoAssignmentJU_Rerun...
+Soot classpath: /home/sarzt/soot-ifds-original/test/junit-4.10.jar:/home/sarzt/soot-ifds-original/hamcrest-core-1.3.jar:/home/sarzt/soot-ifds-original/bin:/usr/lib/jvm/java-6-sun/jre/lib/rt.jar:/usr/lib/jvm/java-6-sun/jre/lib/jce.jar:C:\Program Files\Java\jre7\lib\rt.jar:C:\Program Files\Java\jre7\lib\jce.jar
+Soot started on Sat Mar 16 00:29:31 CET 2013
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 3.0 seconds.
+[Spark] Type masks in 3.6 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/ArrayList<Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/ArrayList<Lorg/junit/runner/Runner;>;
+found type: Ljava/util/ArrayList<Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Lorg/junit/runner/Runner;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/lang/Class<*>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/Comparator<Lorg/junit/runner/Description;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Lorg/junit/runners/model/FrameworkMember<TT;>;
+found type: Ljava/util/ArrayList<Ljava/lang/Class<*>;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/ArrayList<Ljava/lang/Class<*>;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/ArrayList<Ljava/lang/Class<*>;>;
+found type: TT;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/Map<Ljava/lang/Class<*>;Ljava/util/List<TT;>;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<TT;>;
+found type: TT;
+found type: Ljava/util/List<TT;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<TT;>;
+found type: TT;
+found type: Ljava/util/List<TT;>;
+found type: TT;
+found type: Ljava/util/List<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/model/FrameworkMember<TT;>;
+found type: TT;
+found type: Ljava/util/Map<Ljava/lang/Class<*>;Ljava/util/List<TT;>;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/Map<Ljava/lang/Class<*>;Ljava/util/List<TT;>;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/Map<Ljava/lang/Class<*>;Ljava/util/List<TT;>;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkField;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkField;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/lang/Iterable<Lorg/junit/rules/TestRule;>;
+found type: Ljava/lang/Iterable<Lorg/junit/rules/TestRule;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<TT;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/lang/Class<TT;>;
+found type: Ljava/util/List<TT;>;
+found type: Ljava/lang/Class<TT;>;
+found type: Ljava/util/List<TT;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/Iterator<Lorg/junit/runner/notification/RunListener;>;
+found type: Ljava/util/Iterator<Lorg/junit/runner/notification/RunListener;>;
+found type: Ljava/util/Iterator<Lorg/junit/runner/notification/RunListener;>;
+found type: Ljava/util/Iterator<Lorg/junit/runner/notification/RunListener;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Lorg/junit/runners/model/RunnerBuilder;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/RunnerBuilder;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Lorg/hamcrest/internal/SelfDescribingValue<TT;>;
+found type: Ljava/util/Iterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Ljava/util/Iterator<TT;>;
+found type: Ljava/util/Iterator<+Lorg/hamcrest/SelfDescribing;>;
+found type: Ljava/util/Iterator<+Lorg/hamcrest/SelfDescribing;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValue<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValue<TT;>;
+found type: TT;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<+Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<+Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<+Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/String;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/String;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/String;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/String;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/reflect/Constructor<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/reflect/Constructor<*>;
+found type: Ljava/lang/reflect/Constructor<*>;
+found type: Ljava/lang/reflect/Constructor<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljunit/framework/TestListener;>;
+found type: Ljava/util/List<Ljunit/framework/TestListener;>;
+found type: Ljava/util/List<Ljunit/framework/TestListener;>;
+found type: Ljava/lang/Class<TT;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/lang/Class<+Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+[Spark] Propagation in 64.0 seconds.
+[Spark] Solution found in 64.0 seconds.
+Running IFDS on initial CFG...
+ICFG created in 0.295006887 seconds.
+Running solver...
+IDE solver done, 3702481 edges propagated.
+Solver done in 524.940238684seconds.
+Pair $r0,[$r0 = new org.junit.runner.JUnitCore]
+Old main class: org.junit.runner.JUnitCore - new: org.junit.runner.JUnitCore
+Updating entry points took 8.534E-5seconds
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.1 seconds.
+[Spark] Type masks in 0.2 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+[Spark] Propagation in 63.9 seconds.
+[Spark] Solution found in 63.9 seconds.
+Updating callgraph took 65.065835812seconds
+Updating reachable methods took 5.0522E-5seconds
+Graph patched in 65.286767627 seconds.
+IDE solver done, 3702501 edges propagated.
+Pair l8,[l8 = args]
+Pair @parameter0: org.junit.internal.JUnitSystem,[system := @parameter0: org.junit.internal.JUnitSystem]
+Pair each,[each = (org.junit.runner.notification.Failure) $r14]
+Pair $r14,[$r1 = $r0[l1]]
+Pair l7,[l7 = lengthof args]
+Pair $r14,[$r2 = $r1[l1]]
+Pair classes,[classes = $r4]
+Pair l6,[l6 = l6 + 1]
+Pair missingClasses,[missingClasses = $r4]
+Pair $r14,[$r2 = <sun.security.jca.ProviderList: java.security.Provider EMPTY_PROVIDER>]
+Pair $r15,[$r0 = this.<org.junit.runner.Result: java.util.List fFailures>]
+Pair $r10,[$r10 = new org.junit.internal.TextListener]
+Pair system,[system := @parameter0: org.junit.internal.JUnitSystem]
+Pair $r14,[$r1 = $r0.<java.util.LinkedList$Entry: java.lang.Object element>]
+Pair l8,[$r0 = new java.util.AbstractList$Itr]
+Pair $r14,[$r0 = (java.security.Provider$Service) $r2]
+Pair $r14,[$r0 = l0.<sun.security.jca.ProviderList$ServiceList: java.security.Provider$Service firstService>]
+Pair $r7,[$r7 := @caughtexception]
+Pair $z0,[$z0 = 0]
+Pair $r12,[$r0 = (java.lang.Object[]) $r0]
+Pair l6,[l6 = 0]
+Pair each,[each = l8[l6]]
+Pair $r4,[$r4 = new java.util.ArrayList]
+Pair $r3,[$r0 = new java.lang.String]
+Pair $r13,[$r13 = (java.lang.Class[]) $r12]
+Pair $r12,[l1 := @parameter0: java.lang.Object[]]
+Pair @parameter1: java.lang.String[],[args := @parameter1: java.lang.String[]]
+Pair $r11,[$r11 = newarray (java.lang.Class)[0]]
+Pair description,[$r1 = new org.junit.runner.Description]
+Pair e,[e = $r7]
+Pair $r8,[$r8 = newarray (java.lang.annotation.Annotation)[0]]
+Pair $r9,[$r9 = new org.junit.runner.notification.Failure]
+Pair $r14,[$r3 = l0.<java.util.Collections$SingletonList: java.lang.Object element>]
+Pair $z0,[$z0 = 1]
+Pair failure,[failure = $r9]
+Pair $r14,[$r3 = l0.<java.util.Collections$CopiesList: java.lang.Object element>]
+Pair $r14,[$r2 = l2]
+Pair listener,[listener = $r10]
+Pair $r14,[$r1 = $r0[l1]]
+Pair $r0,[l0 := @this: java.lang.StringBuilder]
+Pair result,[result = $r0]
+Pair $r1,[$r0 = <java.lang.System: java.io.PrintStream out>]
+Pair this,[this := @this: org.junit.runner.JUnitCore]
+Pair args,[args := @parameter1: java.lang.String[]]
+Time elapsed: 1125.424764133
+Transforming SimpleTest... 
+Transforming TestRemoveLeakInFunction... 
+Transforming DeleteInOutLoopTest... 
+Transforming DeleteAssignmentInLoopTest... 
+Transforming FuncTypeTest... 
+Transforming TestRemoveNoLeakCall... 
+Transforming TestRemoveLeakingCall... 
+Transforming ExitTest... 
+Transforming TestRemoveLeak... 
+Transforming org.junit.runner.JUnitCore... 
+Writing to sootOutput/SimpleTest.class
+Writing to sootOutput/TestRemoveLeakInFunction.class
+Writing to sootOutput/DeleteInOutLoopTest.class
+Writing to sootOutput/DeleteAssignmentInLoopTest.class
+Writing to sootOutput/FuncTypeTest.class
+Writing to sootOutput/TestRemoveNoLeakCall.class
+Writing to sootOutput/TestRemoveLeakingCall.class
+Writing to sootOutput/ExitTest.class
+Writing to sootOutput/TestRemoveLeak.class
+Writing to sootOutput/org/junit/runner/JUnitCore.class
+Soot finished on Sat Mar 16 00:49:44 CET 2013
+Soot has run for 20 min. 13 sec.
+addCallNoAssignmentJU_Rerun finished.
+Starting addCallNoAssignmentJU_Rerun...
+Soot classpath: /home/sarzt/soot-ifds-original/test/junit-4.10.jar:/home/sarzt/soot-ifds-original/hamcrest-core-1.3.jar:/home/sarzt/soot-ifds-original/bin:/usr/lib/jvm/java-6-sun/jre/lib/rt.jar:/usr/lib/jvm/java-6-sun/jre/lib/jce.jar:C:\Program Files\Java\jre7\lib\rt.jar:C:\Program Files\Java\jre7\lib\jce.jar
+Soot started on Sat Mar 16 00:49:44 CET 2013
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 1.2 seconds.
+[Spark] Type masks in 1.8 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/ArrayList<Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/ArrayList<Lorg/junit/runner/Runner;>;
+found type: Ljava/util/ArrayList<Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Lorg/junit/runner/Runner;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/lang/Class<*>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/Comparator<Lorg/junit/runner/Description;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Lorg/junit/runners/model/FrameworkMember<TT;>;
+found type: Ljava/util/ArrayList<Ljava/lang/Class<*>;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/ArrayList<Ljava/lang/Class<*>;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/ArrayList<Ljava/lang/Class<*>;>;
+found type: TT;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/Map<Ljava/lang/Class<*>;Ljava/util/List<TT;>;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<TT;>;
+found type: TT;
+found type: Ljava/util/List<TT;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<TT;>;
+found type: TT;
+found type: Ljava/util/List<TT;>;
+found type: TT;
+found type: Ljava/util/List<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/model/FrameworkMember<TT;>;
+found type: TT;
+found type: Ljava/util/Map<Ljava/lang/Class<*>;Ljava/util/List<TT;>;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/Map<Ljava/lang/Class<*>;Ljava/util/List<TT;>;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/Map<Ljava/lang/Class<*>;Ljava/util/List<TT;>;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkField;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkField;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/lang/Iterable<Lorg/junit/rules/TestRule;>;
+found type: Ljava/lang/Iterable<Lorg/junit/rules/TestRule;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<TT;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/lang/Class<TT;>;
+found type: Ljava/util/List<TT;>;
+found type: Ljava/lang/Class<TT;>;
+found type: Ljava/util/List<TT;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/Iterator<Lorg/junit/runner/notification/RunListener;>;
+found type: Ljava/util/Iterator<Lorg/junit/runner/notification/RunListener;>;
+found type: Ljava/util/Iterator<Lorg/junit/runner/notification/RunListener;>;
+found type: Ljava/util/Iterator<Lorg/junit/runner/notification/RunListener;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Lorg/junit/runners/model/RunnerBuilder;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/RunnerBuilder;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Lorg/hamcrest/internal/SelfDescribingValue<TT;>;
+found type: Ljava/util/Iterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Ljava/util/Iterator<TT;>;
+found type: Ljava/util/Iterator<+Lorg/hamcrest/SelfDescribing;>;
+found type: Ljava/util/Iterator<+Lorg/hamcrest/SelfDescribing;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValue<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValue<TT;>;
+found type: TT;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<+Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<+Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<+Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/String;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/String;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/String;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/String;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/reflect/Constructor<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/reflect/Constructor<*>;
+found type: Ljava/lang/reflect/Constructor<*>;
+found type: Ljava/lang/reflect/Constructor<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljunit/framework/TestListener;>;
+found type: Ljava/util/List<Ljunit/framework/TestListener;>;
+found type: Ljava/util/List<Ljunit/framework/TestListener;>;
+found type: Ljava/lang/Class<TT;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/lang/Class<+Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+[Spark] Propagation in 62.7 seconds.
+[Spark] Solution found in 62.7 seconds.
+Running IFDS on initial CFG...
+ICFG created in 0.164138858 seconds.
+Running solver...
+IDE solver done, 3702480 edges propagated.
+Solver done in 464.451616823seconds.
+Pair @parameter0: org.junit.internal.JUnitSystem,[$r0 = new org.junit.internal.RealSystem]
+Pair $b0,[$b0 = 0]
+Pair result,[result = $r0]
+Pair $r0,[$r0 = new org.junit.runner.JUnitCore]
+Old main class: org.junit.runner.JUnitCore - new: org.junit.runner.JUnitCore
+Updating entry points took 6.5358E-5seconds
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.0 seconds.
+[Spark] Type masks in 0.2 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+[Spark] Propagation in 22.0 seconds.
+[Spark] Solution found in 22.0 seconds.
+Updating callgraph took 23.117806844seconds
+Updating reachable methods took 7.777E-6seconds
+Graph patched in 23.306724462 seconds.
+IDE solver done, 3702501 edges propagated.
+Pair $r1,[$r0 = <java.lang.System: java.io.PrintStream out>]
+Pair @parameter0: org.junit.internal.JUnitSystem,[system := @parameter0: org.junit.internal.JUnitSystem]
+Pair $r15,[$r0 = this.<org.junit.runner.Result: java.util.List fFailures>]
+Pair listener,[listener = $r10]
+Pair missingClasses,[missingClasses = $r4]
+Pair l8,[l8 = args]
+Pair each,[each = (org.junit.runner.notification.Failure) $r14]
+Pair $z0,[$z0 = 0]
+Pair $r14,[$r3 = l0.<java.util.Collections$CopiesList: java.lang.Object element>]
+Pair description,[$r1 = new org.junit.runner.Description]
+Pair $r14,[$r1 = $r0[l1]]
+Pair result,[result = $r0]
+Pair $r14,[$r2 = $r1[l1]]
+Pair $r14,[$r1 = $r0[l1]]
+Pair @parameter1: java.lang.String[],[args := @parameter1: java.lang.String[]]
+Pair $r9,[$r9 = new org.junit.runner.notification.Failure]
+Pair each,[each = l8[l6]]
+Pair $r12,[l1 := @parameter0: java.lang.Object[]]
+Pair l6,[l6 = 0]
+Pair $r14,[$r1 = $r0.<java.util.LinkedList$Entry: java.lang.Object element>]
+Pair $r8,[$r8 = newarray (java.lang.annotation.Annotation)[0]]
+Pair system,[system := @parameter0: org.junit.internal.JUnitSystem]
+Pair $r4,[$r4 = new java.util.ArrayList]
+Pair l6,[l6 = l6 + 1]
+Pair $r13,[$r13 = (java.lang.Class[]) $r12]
+Pair $r0,[l0 := @this: java.lang.StringBuilder]
+Pair $r14,[$r0 = (java.security.Provider$Service) $r2]
+Pair args,[args := @parameter1: java.lang.String[]]
+Pair $r11,[$r11 = newarray (java.lang.Class)[0]]
+Pair $r14,[$r0 = l0.<sun.security.jca.ProviderList$ServiceList: java.security.Provider$Service firstService>]
+Pair $r14,[$r2 = <sun.security.jca.ProviderList: java.security.Provider EMPTY_PROVIDER>]
+Pair $z0,[$z0 = 1]
+Pair $r7,[$r7 := @caughtexception]
+Pair e,[e = $r7]
+Pair $r3,[$r0 = new java.lang.String]
+Pair this,[this := @this: org.junit.runner.JUnitCore]
+Pair failure,[failure = $r9]
+Pair $r12,[$r0 = (java.lang.Object[]) $r0]
+Pair $r14,[$r3 = l0.<java.util.Collections$SingletonList: java.lang.Object element>]
+Pair l8,[$r0 = new java.util.AbstractList$Itr]
+Pair l7,[l7 = lengthof args]
+Pair classes,[classes = $r4]
+Pair $r10,[$r10 = new org.junit.internal.TextListener]
+Pair $r14,[$r2 = l2]
+Time elapsed: 1019.441600734
+Transforming SimpleTest... 
+Transforming TestRemoveLeakInFunction... 
+Transforming DeleteInOutLoopTest... 
+Transforming DeleteAssignmentInLoopTest... 
+Transforming FuncTypeTest... 
+Transforming TestRemoveNoLeakCall... 
+Transforming TestRemoveLeakingCall... 
+Transforming ExitTest... 
+Transforming TestRemoveLeak... 
+Transforming org.junit.runner.JUnitCore... 
+Writing to sootOutput/SimpleTest.class
+Writing to sootOutput/TestRemoveLeakInFunction.class
+Writing to sootOutput/DeleteInOutLoopTest.class
+Writing to sootOutput/DeleteAssignmentInLoopTest.class
+Writing to sootOutput/FuncTypeTest.class
+Writing to sootOutput/TestRemoveNoLeakCall.class
+Writing to sootOutput/TestRemoveLeakingCall.class
+Writing to sootOutput/ExitTest.class
+Writing to sootOutput/TestRemoveLeak.class
+Writing to sootOutput/org/junit/runner/JUnitCore.class
+Soot finished on Sat Mar 16 01:07:54 CET 2013
+Soot has run for 18 min. 9 sec.
+addCallNoAssignmentJU_Rerun finished.
+Starting addCallNoAssignmentJU_Rerun...
+Soot classpath: /home/sarzt/soot-ifds-original/test/junit-4.10.jar:/home/sarzt/soot-ifds-original/hamcrest-core-1.3.jar:/home/sarzt/soot-ifds-original/bin:/usr/lib/jvm/java-6-sun/jre/lib/rt.jar:/usr/lib/jvm/java-6-sun/jre/lib/jce.jar:C:\Program Files\Java\jre7\lib\rt.jar:C:\Program Files\Java\jre7\lib\jce.jar
+Soot started on Sat Mar 16 01:07:54 CET 2013
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.7 seconds.
+[Spark] Type masks in 0.2 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/ArrayList<Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/ArrayList<Lorg/junit/runner/Runner;>;
+found type: Ljava/util/ArrayList<Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Lorg/junit/runner/Runner;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/lang/Class<*>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/Comparator<Lorg/junit/runner/Description;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Lorg/junit/runners/model/FrameworkMember<TT;>;
+found type: Ljava/util/ArrayList<Ljava/lang/Class<*>;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/ArrayList<Ljava/lang/Class<*>;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/ArrayList<Ljava/lang/Class<*>;>;
+found type: TT;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/Map<Ljava/lang/Class<*>;Ljava/util/List<TT;>;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<TT;>;
+found type: TT;
+found type: Ljava/util/List<TT;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<TT;>;
+found type: TT;
+found type: Ljava/util/List<TT;>;
+found type: TT;
+found type: Ljava/util/List<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/model/FrameworkMember<TT;>;
+found type: TT;
+found type: Ljava/util/Map<Ljava/lang/Class<*>;Ljava/util/List<TT;>;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/Map<Ljava/lang/Class<*>;Ljava/util/List<TT;>;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/Map<Ljava/lang/Class<*>;Ljava/util/List<TT;>;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkField;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkField;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/lang/Iterable<Lorg/junit/rules/TestRule;>;
+found type: Ljava/lang/Iterable<Lorg/junit/rules/TestRule;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<TT;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/lang/Class<TT;>;
+found type: Ljava/util/List<TT;>;
+found type: Ljava/lang/Class<TT;>;
+found type: Ljava/util/List<TT;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/Iterator<Lorg/junit/runner/notification/RunListener;>;
+found type: Ljava/util/Iterator<Lorg/junit/runner/notification/RunListener;>;
+found type: Ljava/util/Iterator<Lorg/junit/runner/notification/RunListener;>;
+found type: Ljava/util/Iterator<Lorg/junit/runner/notification/RunListener;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Lorg/junit/runners/model/RunnerBuilder;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/RunnerBuilder;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Lorg/hamcrest/internal/SelfDescribingValue<TT;>;
+found type: Ljava/util/Iterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Ljava/util/Iterator<TT;>;
+found type: Ljava/util/Iterator<+Lorg/hamcrest/SelfDescribing;>;
+found type: Ljava/util/Iterator<+Lorg/hamcrest/SelfDescribing;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValue<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValue<TT;>;
+found type: TT;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<+Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<+Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<+Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/String;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/String;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/String;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/String;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/reflect/Constructor<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/reflect/Constructor<*>;
+found type: Ljava/lang/reflect/Constructor<*>;
+found type: Ljava/lang/reflect/Constructor<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljunit/framework/TestListener;>;
+found type: Ljava/util/List<Ljunit/framework/TestListener;>;
+found type: Ljava/util/List<Ljunit/framework/TestListener;>;
+found type: Ljava/lang/Class<TT;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/lang/Class<+Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+[Spark] Propagation in 59.9 seconds.
+[Spark] Solution found in 59.9 seconds.
+Running IFDS on initial CFG...
+ICFG created in 0.134945019 seconds.
+Running solver...
+IDE solver done, 3702480 edges propagated.
+Solver done in 394.325658348seconds.
+Pair @parameter1: java.lang.String[],[args := @parameter0: java.lang.String[]]
+Pair $r0,[$r0 = new org.junit.runner.JUnitCore]
+Old main class: org.junit.runner.JUnitCore - new: org.junit.runner.JUnitCore
+Updating entry points took 6.5058E-5seconds
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.0 seconds.
+[Spark] Type masks in 0.2 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+[Spark] Propagation in 18.4 seconds.
+[Spark] Solution found in 18.4 seconds.
+Updating callgraph took 19.479133208seconds
+Updating reachable methods took 7.472E-6seconds
+Graph patched in 19.667309097 seconds.
+IDE solver done, 3702501 edges propagated.
+Pair l6,[l6 = 0]
+Pair @parameter0: org.junit.internal.JUnitSystem,[system := @parameter0: org.junit.internal.JUnitSystem]
+Pair $z0,[$z0 = 1]
+Pair system,[system := @parameter0: org.junit.internal.JUnitSystem]
+Pair $r0,[l0 := @this: java.lang.StringBuilder]
+Pair $r8,[$r8 = newarray (java.lang.annotation.Annotation)[0]]
+Pair $r14,[$r0 = l0.<sun.security.jca.ProviderList$ServiceList: java.security.Provider$Service firstService>]
+Pair l7,[l7 = lengthof args]
+Pair this,[this := @this: org.junit.runner.JUnitCore]
+Pair $r14,[$r2 = $r1[l1]]
+Pair $r14,[$r3 = l0.<java.util.Collections$CopiesList: java.lang.Object element>]
+Pair $r14,[$r0 = (java.security.Provider$Service) $r2]
+Pair $r13,[$r13 = (java.lang.Class[]) $r12]
+Pair $r14,[$r1 = $r0[l1]]
+Pair $r7,[$r7 := @caughtexception]
+Pair classes,[classes = $r4]
+Pair listener,[listener = $r10]
+Pair each,[each = l8[l6]]
+Pair $r15,[$r0 = this.<org.junit.runner.Result: java.util.List fFailures>]
+Pair $r14,[$r2 = l2]
+Pair $r12,[$r0 = (java.lang.Object[]) $r0]
+Pair $r1,[$r0 = <java.lang.System: java.io.PrintStream out>]
+Pair $r14,[$r1 = $r0[l1]]
+Pair args,[args := @parameter1: java.lang.String[]]
+Pair @parameter1: java.lang.String[],[args := @parameter1: java.lang.String[]]
+Pair $r14,[$r1 = $r0.<java.util.LinkedList$Entry: java.lang.Object element>]
+Pair description,[$r1 = new org.junit.runner.Description]
+Pair result,[result = $r0]
+Pair $r12,[l1 := @parameter0: java.lang.Object[]]
+Pair e,[e = $r7]
+Pair $r9,[$r9 = new org.junit.runner.notification.Failure]
+Pair $r14,[$r2 = <sun.security.jca.ProviderList: java.security.Provider EMPTY_PROVIDER>]
+Pair $r4,[$r4 = new java.util.ArrayList]
+Pair failure,[failure = $r9]
+Pair missingClasses,[missingClasses = $r4]
+Pair $z0,[$z0 = 0]
+Pair each,[each = (org.junit.runner.notification.Failure) $r14]
+Pair l6,[l6 = l6 + 1]
+Pair $r10,[$r10 = new org.junit.internal.TextListener]
+Pair $r11,[$r11 = newarray (java.lang.Class)[0]]
+Pair $r14,[$r3 = l0.<java.util.Collections$SingletonList: java.lang.Object element>]
+Pair $r3,[$r0 = new java.lang.String]
+Pair l8,[$r0 = new java.util.AbstractList$Itr]
+Pair l8,[l8 = args]
+Time elapsed: 858.389556786
+Transforming SimpleTest... 
+Transforming TestRemoveLeakInFunction... 
+Transforming DeleteInOutLoopTest... 
+Transforming DeleteAssignmentInLoopTest... 
+Transforming FuncTypeTest... 
+Transforming TestRemoveNoLeakCall... 
+Transforming TestRemoveLeakingCall... 
+Transforming ExitTest... 
+Transforming TestRemoveLeak... 
+Transforming org.junit.runner.JUnitCore... 
+Writing to sootOutput/SimpleTest.class
+Writing to sootOutput/TestRemoveLeakInFunction.class
+Writing to sootOutput/DeleteInOutLoopTest.class
+Writing to sootOutput/DeleteAssignmentInLoopTest.class
+Writing to sootOutput/FuncTypeTest.class
+Writing to sootOutput/TestRemoveNoLeakCall.class
+Writing to sootOutput/TestRemoveLeakingCall.class
+Writing to sootOutput/ExitTest.class
+Writing to sootOutput/TestRemoveLeak.class
+Writing to sootOutput/org/junit/runner/JUnitCore.class
+Soot finished on Sat Mar 16 01:23:17 CET 2013
+Soot has run for 15 min. 22 sec.
+addCallNoAssignmentJU_Rerun finished.
+Starting addCallNoAssignmentJU_Rerun...
+Soot classpath: /home/sarzt/soot-ifds-original/test/junit-4.10.jar:/home/sarzt/soot-ifds-original/hamcrest-core-1.3.jar:/home/sarzt/soot-ifds-original/bin:/usr/lib/jvm/java-6-sun/jre/lib/rt.jar:/usr/lib/jvm/java-6-sun/jre/lib/jce.jar:C:\Program Files\Java\jre7\lib\rt.jar:C:\Program Files\Java\jre7\lib\jce.jar
+Soot started on Sat Mar 16 01:23:17 CET 2013
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.6 seconds.
+[Spark] Type masks in 0.2 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/ArrayList<Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/ArrayList<Lorg/junit/runner/Runner;>;
+found type: Ljava/util/ArrayList<Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Lorg/junit/runner/Runner;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/lang/Class<*>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/Comparator<Lorg/junit/runner/Description;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Lorg/junit/runners/model/FrameworkMember<TT;>;
+found type: Ljava/util/ArrayList<Ljava/lang/Class<*>;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/ArrayList<Ljava/lang/Class<*>;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/ArrayList<Ljava/lang/Class<*>;>;
+found type: TT;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/Map<Ljava/lang/Class<*>;Ljava/util/List<TT;>;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<TT;>;
+found type: TT;
+found type: Ljava/util/List<TT;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<TT;>;
+found type: TT;
+found type: Ljava/util/List<TT;>;
+found type: TT;
+found type: Ljava/util/List<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/model/FrameworkMember<TT;>;
+found type: TT;
+found type: Ljava/util/Map<Ljava/lang/Class<*>;Ljava/util/List<TT;>;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/Map<Ljava/lang/Class<*>;Ljava/util/List<TT;>;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/Map<Ljava/lang/Class<*>;Ljava/util/List<TT;>;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkField;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkField;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/lang/Iterable<Lorg/junit/rules/TestRule;>;
+found type: Ljava/lang/Iterable<Lorg/junit/rules/TestRule;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<TT;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/lang/Class<TT;>;
+found type: Ljava/util/List<TT;>;
+found type: Ljava/lang/Class<TT;>;
+found type: Ljava/util/List<TT;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/Iterator<Lorg/junit/runner/notification/RunListener;>;
+found type: Ljava/util/Iterator<Lorg/junit/runner/notification/RunListener;>;
+found type: Ljava/util/Iterator<Lorg/junit/runner/notification/RunListener;>;
+found type: Ljava/util/Iterator<Lorg/junit/runner/notification/RunListener;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Lorg/junit/runners/model/RunnerBuilder;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/RunnerBuilder;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Lorg/hamcrest/internal/SelfDescribingValue<TT;>;
+found type: Ljava/util/Iterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Ljava/util/Iterator<TT;>;
+found type: Ljava/util/Iterator<+Lorg/hamcrest/SelfDescribing;>;
+found type: Ljava/util/Iterator<+Lorg/hamcrest/SelfDescribing;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValue<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValue<TT;>;
+found type: TT;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<+Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<+Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<+Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/String;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/String;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/String;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/String;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/reflect/Constructor<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/reflect/Constructor<*>;
+found type: Ljava/lang/reflect/Constructor<*>;
+found type: Ljava/lang/reflect/Constructor<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljunit/framework/TestListener;>;
+found type: Ljava/util/List<Ljunit/framework/TestListener;>;
+found type: Ljava/util/List<Ljunit/framework/TestListener;>;
+found type: Ljava/lang/Class<TT;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/lang/Class<+Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+[Spark] Propagation in 59.8 seconds.
+[Spark] Solution found in 59.8 seconds.
+Running IFDS on initial CFG...
+ICFG created in 0.145095369 seconds.
+Running solver...
+IDE solver done, 3702479 edges propagated.
+Solver done in 377.918798453seconds.
+Pair $r0,[$r0 = new org.junit.runner.JUnitCore]
+Old main class: org.junit.runner.JUnitCore - new: org.junit.runner.JUnitCore
+Updating entry points took 7.083E-5seconds
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.0 seconds.
+[Spark] Type masks in 0.2 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+[Spark] Propagation in 51.3 seconds.
+[Spark] Solution found in 51.3 seconds.
+Updating callgraph took 52.325003099seconds
+Updating reachable methods took 7.81E-6seconds
+Graph patched in 52.494336223 seconds.
+IDE solver done, 3702503 edges propagated.
+Pair $r14,[$r1 = $r0.<java.util.LinkedList$Entry: java.lang.Object element>]
+Pair missingClasses,[missingClasses = $r4]
+Pair $r7,[$r7 := @caughtexception]
+Pair $r14,[$r2 = $r1[l1]]
+Pair $r4,[$r4 = new java.util.ArrayList]
+Pair $r3,[$r0 = new java.lang.String]
+Pair $r14,[$r0 = (java.security.Provider$Service) $r2]
+Pair @parameter1: java.lang.String[],[args := @parameter1: java.lang.String[]]
+Pair e,[e = $r7]
+Pair l8,[l8 = args]
+Pair l7,[l7 = lengthof args]
+Pair @parameter0: org.junit.internal.JUnitSystem,[system := @parameter0: org.junit.internal.JUnitSystem]
+Pair each,[each = l8[l6]]
+Pair args,[args := @parameter1: java.lang.String[]]
+Pair $r14,[$r2 = l2]
+Pair result,[result = $r0]
+Pair description,[$r1 = new org.junit.runner.Description]
+Pair each,[each = (org.junit.runner.notification.Failure) $r14]
+Pair $r15,[$r0 = this.<org.junit.runner.Result: java.util.List fFailures>]
+Pair $r14,[$r3 = l0.<java.util.Collections$CopiesList: java.lang.Object element>]
+Pair $r10,[$r10 = new org.junit.internal.TextListener]
+Pair $r11,[$r11 = newarray (java.lang.Class)[0]]
+Pair this,[this := @this: org.junit.runner.JUnitCore]
+Pair $z0,[$z0 = 1]
+Pair l8,[$r0 = new java.util.AbstractList$Itr]
+Pair $z0,[$z0 = 0]
+Pair l6,[l6 = l6 + 1]
+Pair $r9,[$r9 = new org.junit.runner.notification.Failure]
+Pair $r0,[l0 := @this: java.lang.StringBuilder]
+Pair $r14,[$r3 = l0.<java.util.Collections$SingletonList: java.lang.Object element>]
+Pair $r14,[$r0 = l0.<sun.security.jca.ProviderList$ServiceList: java.security.Provider$Service firstService>]
+Pair listener,[listener = $r10]
+Pair $r1,[$r0 = <java.lang.System: java.io.PrintStream out>]
+Pair $r14,[$r1 = $r0[l1]]
+Pair failure,[failure = $r9]
+Pair $r14,[$r2 = <sun.security.jca.ProviderList: java.security.Provider EMPTY_PROVIDER>]
+Pair $r8,[$r8 = newarray (java.lang.annotation.Annotation)[0]]
+Pair system,[system := @parameter0: org.junit.internal.JUnitSystem]
+Pair classes,[classes = $r4]
+Pair $r12,[l1 := @parameter0: java.lang.Object[]]
+Pair $r12,[$r0 = (java.lang.Object[]) $r0]
+Pair l6,[l6 = 0]
+Pair $r13,[$r13 = (java.lang.Class[]) $r12]
+Pair $r14,[$r1 = $r0[l1]]
+Time elapsed: 975.117126689
+Transforming SimpleTest... 
+Transforming TestRemoveLeakInFunction... 
+Transforming DeleteInOutLoopTest... 
+Transforming DeleteAssignmentInLoopTest... 
+Transforming FuncTypeTest... 
+Transforming TestRemoveNoLeakCall... 
+Transforming TestRemoveLeakingCall... 
+Transforming ExitTest... 
+Transforming TestRemoveLeak... 
+Transforming org.junit.runner.JUnitCore... 
+Writing to sootOutput/SimpleTest.class
+Writing to sootOutput/TestRemoveLeakInFunction.class
+Writing to sootOutput/DeleteInOutLoopTest.class
+Writing to sootOutput/DeleteAssignmentInLoopTest.class
+Writing to sootOutput/FuncTypeTest.class
+Writing to sootOutput/TestRemoveNoLeakCall.class
+Writing to sootOutput/TestRemoveLeakingCall.class
+Writing to sootOutput/ExitTest.class
+Writing to sootOutput/TestRemoveLeak.class
+Writing to sootOutput/org/junit/runner/JUnitCore.class
+Soot finished on Sat Mar 16 01:40:37 CET 2013
+Soot has run for 17 min. 19 sec.
+addCallNoAssignmentJU_Rerun finished.
+Starting addCallNoAssignmentJU_Rerun...
+Soot classpath: /home/sarzt/soot-ifds-original/test/junit-4.10.jar:/home/sarzt/soot-ifds-original/hamcrest-core-1.3.jar:/home/sarzt/soot-ifds-original/bin:/usr/lib/jvm/java-6-sun/jre/lib/rt.jar:/usr/lib/jvm/java-6-sun/jre/lib/jce.jar:C:\Program Files\Java\jre7\lib\rt.jar:C:\Program Files\Java\jre7\lib\jce.jar
+Soot started on Sat Mar 16 01:40:37 CET 2013
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.7 seconds.
+[Spark] Type masks in 0.2 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/ArrayList<Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/ArrayList<Lorg/junit/runner/Runner;>;
+found type: Ljava/util/ArrayList<Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Lorg/junit/runner/Runner;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/lang/Class<*>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/Comparator<Lorg/junit/runner/Description;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Lorg/junit/runners/model/FrameworkMember<TT;>;
+found type: Ljava/util/ArrayList<Ljava/lang/Class<*>;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/ArrayList<Ljava/lang/Class<*>;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/ArrayList<Ljava/lang/Class<*>;>;
+found type: TT;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/Map<Ljava/lang/Class<*>;Ljava/util/List<TT;>;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<TT;>;
+found type: TT;
+found type: Ljava/util/List<TT;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<TT;>;
+found type: TT;
+found type: Ljava/util/List<TT;>;
+found type: TT;
+found type: Ljava/util/List<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/model/FrameworkMember<TT;>;
+found type: TT;
+found type: Ljava/util/Map<Ljava/lang/Class<*>;Ljava/util/List<TT;>;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/Map<Ljava/lang/Class<*>;Ljava/util/List<TT;>;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/Map<Ljava/lang/Class<*>;Ljava/util/List<TT;>;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkField;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkField;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/lang/Iterable<Lorg/junit/rules/TestRule;>;
+found type: Ljava/lang/Iterable<Lorg/junit/rules/TestRule;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<TT;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/lang/Class<TT;>;
+found type: Ljava/util/List<TT;>;
+found type: Ljava/lang/Class<TT;>;
+found type: Ljava/util/List<TT;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/Iterator<Lorg/junit/runner/notification/RunListener;>;
+found type: Ljava/util/Iterator<Lorg/junit/runner/notification/RunListener;>;
+found type: Ljava/util/Iterator<Lorg/junit/runner/notification/RunListener;>;
+found type: Ljava/util/Iterator<Lorg/junit/runner/notification/RunListener;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Lorg/junit/runners/model/RunnerBuilder;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/RunnerBuilder;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Lorg/hamcrest/internal/SelfDescribingValue<TT;>;
+found type: Ljava/util/Iterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Ljava/util/Iterator<TT;>;
+found type: Ljava/util/Iterator<+Lorg/hamcrest/SelfDescribing;>;
+found type: Ljava/util/Iterator<+Lorg/hamcrest/SelfDescribing;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValue<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValue<TT;>;
+found type: TT;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<+Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<+Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<+Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/String;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/String;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/String;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/String;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/reflect/Constructor<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/reflect/Constructor<*>;
+found type: Ljava/lang/reflect/Constructor<*>;
+found type: Ljava/lang/reflect/Constructor<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljunit/framework/TestListener;>;
+found type: Ljava/util/List<Ljunit/framework/TestListener;>;
+found type: Ljava/util/List<Ljunit/framework/TestListener;>;
+found type: Ljava/lang/Class<TT;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/lang/Class<+Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+[Spark] Propagation in 52.3 seconds.
+[Spark] Solution found in 52.4 seconds.
+Running IFDS on initial CFG...
+ICFG created in 0.136852094 seconds.
+Running solver...
+IDE solver done, 3702479 edges propagated.
+Solver done in 476.279651458seconds.
+Pair $b0,[$b0 = 1]
+Pair args,[args := @parameter1: java.lang.String[]]
+Pair @parameter0: org.junit.internal.JUnitSystem,[$r0 = new org.junit.internal.RealSystem]
+Pair system,[system := @parameter0: org.junit.internal.JUnitSystem]
+Pair $b0,[$b0 = 0]
+Pair result,[result = $r0]
+Pair $r0,[$r0 = new org.junit.runner.JUnitCore]
+Old main class: org.junit.runner.JUnitCore - new: org.junit.runner.JUnitCore
+Updating entry points took 6.7947E-5seconds
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.0 seconds.
+[Spark] Type masks in 0.2 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+[Spark] Propagation in 55.3 seconds.
+[Spark] Solution found in 55.3 seconds.
+Updating callgraph took 56.345483984seconds
+Updating reachable methods took 7.624E-6seconds
+Graph patched in 56.502399224 seconds.
+IDE solver done, 3702501 edges propagated.
+Pair e,[e = $r7]
+Pair failure,[failure = $r9]
+Pair $r14,[$r1 = $r0.<java.util.LinkedList$Entry: java.lang.Object element>]
+Pair $r14,[$r0 = l0.<sun.security.jca.ProviderList$ServiceList: java.security.Provider$Service firstService>]
+Pair $r9,[$r9 = new org.junit.runner.notification.Failure]
+Pair $r15,[$r0 = this.<org.junit.runner.Result: java.util.List fFailures>]
+Pair $r4,[$r4 = new java.util.ArrayList]
+Pair $r14,[$r0 = (java.security.Provider$Service) $r2]
+Pair $r8,[$r8 = newarray (java.lang.annotation.Annotation)[0]]
+Pair each,[each = l8[l6]]
+Pair $r7,[$r7 := @caughtexception]
+Pair $r14,[$r1 = $r0[l1]]
+Pair l8,[l8 = args]
+Pair $r12,[l1 := @parameter0: java.lang.Object[]]
+Pair system,[system := @parameter0: org.junit.internal.JUnitSystem]
+Pair $r11,[$r11 = newarray (java.lang.Class)[0]]
+Pair $r0,[l0 := @this: java.lang.StringBuilder]
+Pair $z0,[$z0 = 0]
+Pair $r14,[$r2 = <sun.security.jca.ProviderList: java.security.Provider EMPTY_PROVIDER>]
+Pair $r12,[$r0 = (java.lang.Object[]) $r0]
+Pair classes,[classes = $r4]
+Pair l6,[l6 = l6 + 1]
+Pair this,[this := @this: org.junit.runner.JUnitCore]
+Pair listener,[listener = $r10]
+Pair $r14,[$r2 = $r1[l1]]
+Pair @parameter1: java.lang.String[],[args := @parameter1: java.lang.String[]]
+Pair missingClasses,[missingClasses = $r4]
+Pair l6,[l6 = 0]
+Pair $r14,[$r1 = $r0[l1]]
+Pair $r3,[$r0 = new java.lang.String]
+Pair $r13,[$r13 = (java.lang.Class[]) $r12]
+Pair $r14,[$r2 = l2]
+Pair $r14,[$r3 = l0.<java.util.Collections$CopiesList: java.lang.Object element>]
+Pair $r14,[$r3 = l0.<java.util.Collections$SingletonList: java.lang.Object element>]
+Pair $r10,[$r10 = new org.junit.internal.TextListener]
+Pair l8,[$r0 = new java.util.AbstractList$Itr]
+Pair l7,[l7 = lengthof args]
+Pair @parameter0: org.junit.internal.JUnitSystem,[system := @parameter0: org.junit.internal.JUnitSystem]
+Pair args,[args := @parameter1: java.lang.String[]]
+Pair each,[each = (org.junit.runner.notification.Failure) $r14]
+Pair description,[$r1 = new org.junit.runner.Description]
+Pair result,[result = $r0]
+Pair $r1,[$r0 = <java.lang.System: java.io.PrintStream out>]
+Pair $z0,[$z0 = 1]
+Time elapsed: 1051.882586683
+Transforming SimpleTest... 
+Transforming TestRemoveLeakInFunction... 
+Transforming DeleteInOutLoopTest... 
+Transforming DeleteAssignmentInLoopTest... 
+Transforming FuncTypeTest... 
+Transforming TestRemoveNoLeakCall... 
+Transforming TestRemoveLeakingCall... 
+Transforming ExitTest... 
+Transforming TestRemoveLeak... 
+Transforming org.junit.runner.JUnitCore... 
+Writing to sootOutput/SimpleTest.class
+Writing to sootOutput/TestRemoveLeakInFunction.class
+Writing to sootOutput/DeleteInOutLoopTest.class
+Writing to sootOutput/DeleteAssignmentInLoopTest.class
+Writing to sootOutput/FuncTypeTest.class
+Writing to sootOutput/TestRemoveNoLeakCall.class
+Writing to sootOutput/TestRemoveLeakingCall.class
+Writing to sootOutput/ExitTest.class
+Writing to sootOutput/TestRemoveLeak.class
+Writing to sootOutput/org/junit/runner/JUnitCore.class
+Soot finished on Sat Mar 16 01:59:06 CET 2013
+Soot has run for 18 min. 28 sec.
+addCallNoAssignmentJU_Rerun finished.
+Starting addCallNoAssignmentJU_Rerun...
+Soot classpath: /home/sarzt/soot-ifds-original/test/junit-4.10.jar:/home/sarzt/soot-ifds-original/hamcrest-core-1.3.jar:/home/sarzt/soot-ifds-original/bin:/usr/lib/jvm/java-6-sun/jre/lib/rt.jar:/usr/lib/jvm/java-6-sun/jre/lib/jce.jar:C:\Program Files\Java\jre7\lib\rt.jar:C:\Program Files\Java\jre7\lib\jce.jar
+Soot started on Sat Mar 16 01:59:06 CET 2013
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.6 seconds.
+[Spark] Type masks in 0.2 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/ArrayList<Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/ArrayList<Lorg/junit/runner/Runner;>;
+found type: Ljava/util/ArrayList<Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Lorg/junit/runner/Runner;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/lang/Class<*>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/Comparator<Lorg/junit/runner/Description;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Lorg/junit/runners/model/FrameworkMember<TT;>;
+found type: Ljava/util/ArrayList<Ljava/lang/Class<*>;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/ArrayList<Ljava/lang/Class<*>;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/ArrayList<Ljava/lang/Class<*>;>;
+found type: TT;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/Map<Ljava/lang/Class<*>;Ljava/util/List<TT;>;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<TT;>;
+found type: TT;
+found type: Ljava/util/List<TT;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<TT;>;
+found type: TT;
+found type: Ljava/util/List<TT;>;
+found type: TT;
+found type: Ljava/util/List<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/model/FrameworkMember<TT;>;
+found type: TT;
+found type: Ljava/util/Map<Ljava/lang/Class<*>;Ljava/util/List<TT;>;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/Map<Ljava/lang/Class<*>;Ljava/util/List<TT;>;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/Map<Ljava/lang/Class<*>;Ljava/util/List<TT;>;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkField;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkField;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/lang/Iterable<Lorg/junit/rules/TestRule;>;
+found type: Ljava/lang/Iterable<Lorg/junit/rules/TestRule;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<TT;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/lang/Class<TT;>;
+found type: Ljava/util/List<TT;>;
+found type: Ljava/lang/Class<TT;>;
+found type: Ljava/util/List<TT;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/Iterator<Lorg/junit/runner/notification/RunListener;>;
+found type: Ljava/util/Iterator<Lorg/junit/runner/notification/RunListener;>;
+found type: Ljava/util/Iterator<Lorg/junit/runner/notification/RunListener;>;
+found type: Ljava/util/Iterator<Lorg/junit/runner/notification/RunListener;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Lorg/junit/runners/model/RunnerBuilder;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/RunnerBuilder;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Lorg/hamcrest/internal/SelfDescribingValue<TT;>;
+found type: Ljava/util/Iterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Ljava/util/Iterator<TT;>;
+found type: Ljava/util/Iterator<+Lorg/hamcrest/SelfDescribing;>;
+found type: Ljava/util/Iterator<+Lorg/hamcrest/SelfDescribing;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValue<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValue<TT;>;
+found type: TT;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<+Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<+Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<+Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/String;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/String;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/String;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/String;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/reflect/Constructor<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/reflect/Constructor<*>;
+found type: Ljava/lang/reflect/Constructor<*>;
+found type: Ljava/lang/reflect/Constructor<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljunit/framework/TestListener;>;
+found type: Ljava/util/List<Ljunit/framework/TestListener;>;
+found type: Ljava/util/List<Ljunit/framework/TestListener;>;
+found type: Ljava/lang/Class<TT;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/lang/Class<+Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+[Spark] Propagation in 60.2 seconds.
+[Spark] Solution found in 60.2 seconds.
+Running IFDS on initial CFG...
+ICFG created in 0.148387792 seconds.
+Running solver...
+IDE solver done, 3702479 edges propagated.
+Solver done in 504.50925471seconds.
+Pair result,[result = $r0]
+Pair $r0,[$r0 = new org.junit.runner.JUnitCore]
+Old main class: org.junit.runner.JUnitCore - new: org.junit.runner.JUnitCore
+Updating entry points took 6.9616E-5seconds
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.0 seconds.
+[Spark] Type masks in 0.2 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+[Spark] Propagation in 21.7 seconds.
+[Spark] Solution found in 21.7 seconds.
+Updating callgraph took 22.787402524seconds
+Updating reachable methods took 7.79E-6seconds
+Graph patched in 22.955273341 seconds.
+IDE solver done, 3702501 edges propagated.
+Pair $r1,[$r0 = <java.lang.System: java.io.PrintStream out>]
+Pair $r14,[$r0 = l0.<sun.security.jca.ProviderList$ServiceList: java.security.Provider$Service firstService>]
+Pair @parameter1: java.lang.String[],[args := @parameter1: java.lang.String[]]
+Pair $r0,[l0 := @this: java.lang.StringBuilder]
+Pair $z0,[$z0 = 0]
+Pair missingClasses,[missingClasses = $r4]
+Pair l8,[$r0 = new java.util.AbstractList$Itr]
+Pair $r14,[$r1 = $r0[l1]]
+Pair result,[result = $r0]
+Pair $r3,[$r0 = new java.lang.String]
+Pair $r8,[$r8 = newarray (java.lang.annotation.Annotation)[0]]
+Pair $r14,[$r3 = l0.<java.util.Collections$CopiesList: java.lang.Object element>]
+Pair $r14,[$r2 = <sun.security.jca.ProviderList: java.security.Provider EMPTY_PROVIDER>]
+Pair $r4,[$r4 = new java.util.ArrayList]
+Pair $r12,[$r0 = (java.lang.Object[]) $r0]
+Pair $r13,[$r13 = (java.lang.Class[]) $r12]
+Pair $r14,[$r2 = l2]
+Pair $r10,[$r10 = new org.junit.internal.TextListener]
+Pair l6,[l6 = l6 + 1]
+Pair $r7,[$r7 := @caughtexception]
+Pair $r15,[$r0 = this.<org.junit.runner.Result: java.util.List fFailures>]
+Pair $r14,[$r1 = $r0[l1]]
+Pair failure,[failure = $r9]
+Pair $r11,[$r11 = newarray (java.lang.Class)[0]]
+Pair args,[args := @parameter1: java.lang.String[]]
+Pair $r14,[$r2 = $r1[l1]]
+Pair l7,[l7 = lengthof args]
+Pair $r14,[$r0 = (java.security.Provider$Service) $r2]
+Pair $r14,[$r3 = l0.<java.util.Collections$SingletonList: java.lang.Object element>]
+Pair each,[each = l8[l6]]
+Pair $r12,[l1 := @parameter0: java.lang.Object[]]
+Pair $r14,[$r1 = $r0.<java.util.LinkedList$Entry: java.lang.Object element>]
+Pair @parameter0: org.junit.internal.JUnitSystem,[system := @parameter0: org.junit.internal.JUnitSystem]
+Pair l6,[l6 = 0]
+Pair listener,[listener = $r10]
+Pair e,[e = $r7]
+Pair $z0,[$z0 = 1]
+Pair $r9,[$r9 = new org.junit.runner.notification.Failure]
+Pair this,[this := @this: org.junit.runner.JUnitCore]
+Pair system,[system := @parameter0: org.junit.internal.JUnitSystem]
+Pair each,[each = (org.junit.runner.notification.Failure) $r14]
+Pair description,[$r1 = new org.junit.runner.Description]
+Pair l8,[l8 = args]
+Pair classes,[classes = $r4]
+Time elapsed: 949.182666852
+Transforming SimpleTest... 
+Transforming TestRemoveLeakInFunction... 
+Transforming DeleteInOutLoopTest... 
+Transforming DeleteAssignmentInLoopTest... 
+Transforming FuncTypeTest... 
+Transforming TestRemoveNoLeakCall... 
+Transforming TestRemoveLeakingCall... 
+Transforming ExitTest... 
+Transforming TestRemoveLeak... 
+Transforming org.junit.runner.JUnitCore... 
+Writing to sootOutput/SimpleTest.class
+Writing to sootOutput/TestRemoveLeakInFunction.class
+Writing to sootOutput/DeleteInOutLoopTest.class
+Writing to sootOutput/DeleteAssignmentInLoopTest.class
+Writing to sootOutput/FuncTypeTest.class
+Writing to sootOutput/TestRemoveNoLeakCall.class
+Writing to sootOutput/TestRemoveLeakingCall.class
+Writing to sootOutput/ExitTest.class
+Writing to sootOutput/TestRemoveLeak.class
+Writing to sootOutput/org/junit/runner/JUnitCore.class
+Soot finished on Sat Mar 16 02:16:00 CET 2013
+Soot has run for 16 min. 53 sec.
+addCallNoAssignmentJU_Rerun finished.
+Starting addCallNoAssignmentJU_Rerun...
+Soot classpath: /home/sarzt/soot-ifds-original/test/junit-4.10.jar:/home/sarzt/soot-ifds-original/hamcrest-core-1.3.jar:/home/sarzt/soot-ifds-original/bin:/usr/lib/jvm/java-6-sun/jre/lib/rt.jar:/usr/lib/jvm/java-6-sun/jre/lib/jce.jar:C:\Program Files\Java\jre7\lib\rt.jar:C:\Program Files\Java\jre7\lib\jce.jar
+Soot started on Sat Mar 16 02:16:00 CET 2013
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.7 seconds.
+[Spark] Type masks in 0.2 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/ArrayList<Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/ArrayList<Lorg/junit/runner/Runner;>;
+found type: Ljava/util/ArrayList<Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Lorg/junit/runner/Runner;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/lang/Class<*>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/Comparator<Lorg/junit/runner/Description;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Lorg/junit/runners/model/FrameworkMember<TT;>;
+found type: Ljava/util/ArrayList<Ljava/lang/Class<*>;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/ArrayList<Ljava/lang/Class<*>;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/ArrayList<Ljava/lang/Class<*>;>;
+found type: TT;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/Map<Ljava/lang/Class<*>;Ljava/util/List<TT;>;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<TT;>;
+found type: TT;
+found type: Ljava/util/List<TT;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<TT;>;
+found type: TT;
+found type: Ljava/util/List<TT;>;
+found type: TT;
+found type: Ljava/util/List<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/model/FrameworkMember<TT;>;
+found type: TT;
+found type: Ljava/util/Map<Ljava/lang/Class<*>;Ljava/util/List<TT;>;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/Map<Ljava/lang/Class<*>;Ljava/util/List<TT;>;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/Map<Ljava/lang/Class<*>;Ljava/util/List<TT;>;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkField;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkField;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/lang/Iterable<Lorg/junit/rules/TestRule;>;
+found type: Ljava/lang/Iterable<Lorg/junit/rules/TestRule;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<TT;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/lang/Class<TT;>;
+found type: Ljava/util/List<TT;>;
+found type: Ljava/lang/Class<TT;>;
+found type: Ljava/util/List<TT;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/Iterator<Lorg/junit/runner/notification/RunListener;>;
+found type: Ljava/util/Iterator<Lorg/junit/runner/notification/RunListener;>;
+found type: Ljava/util/Iterator<Lorg/junit/runner/notification/RunListener;>;
+found type: Ljava/util/Iterator<Lorg/junit/runner/notification/RunListener;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Lorg/junit/runners/model/RunnerBuilder;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/RunnerBuilder;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Lorg/hamcrest/internal/SelfDescribingValue<TT;>;
+found type: Ljava/util/Iterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Ljava/util/Iterator<TT;>;
+found type: Ljava/util/Iterator<+Lorg/hamcrest/SelfDescribing;>;
+found type: Ljava/util/Iterator<+Lorg/hamcrest/SelfDescribing;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValue<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValue<TT;>;
+found type: TT;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<+Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<+Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<+Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/String;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/String;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/String;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/String;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/reflect/Constructor<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/reflect/Constructor<*>;
+found type: Ljava/lang/reflect/Constructor<*>;
+found type: Ljava/lang/reflect/Constructor<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljunit/framework/TestListener;>;
+found type: Ljava/util/List<Ljunit/framework/TestListener;>;
+found type: Ljava/util/List<Ljunit/framework/TestListener;>;
+found type: Ljava/lang/Class<TT;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/lang/Class<+Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+[Spark] Propagation in 62.1 seconds.
+[Spark] Solution found in 62.1 seconds.
+Running IFDS on initial CFG...
+ICFG created in 0.139165533 seconds.
+Running solver...
+IDE solver done, 3702482 edges propagated.
+Solver done in 377.190262532seconds.
+Pair $b0,[$b0 = 1]
+Pair system,[system := @parameter0: org.junit.internal.JUnitSystem]
+Pair @parameter1: java.lang.String[],[args := @parameter0: java.lang.String[]]
+Pair result,[result = $r0]
+Pair $b0,[$b0 = 0]
+Pair @parameter0: org.junit.internal.JUnitSystem,[$r0 = new org.junit.internal.RealSystem]
+Pair $r0,[$r0 = new org.junit.runner.JUnitCore]
+Old main class: org.junit.runner.JUnitCore - new: org.junit.runner.JUnitCore
+Updating entry points took 6.8294E-5seconds
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.0 seconds.
+[Spark] Type masks in 0.2 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+[Spark] Propagation in 51.6 seconds.
+[Spark] Solution found in 51.6 seconds.
+Updating callgraph took 52.676980497seconds
+Updating reachable methods took 7.838E-6seconds
+Graph patched in 52.824449682 seconds.
+IDE solver done, 3702501 edges propagated.
+Pair $z0,[$z0 = 0]
+Pair $r14,[$r1 = $r0[l1]]
+Pair l6,[l6 = 0]
+Pair $z0,[$z0 = 1]
+Pair $r14,[$r3 = l0.<java.util.Collections$CopiesList: java.lang.Object element>]
+Pair $r14,[$r1 = $r0.<java.util.LinkedList$Entry: java.lang.Object element>]
+Pair $r14,[$r2 = <sun.security.jca.ProviderList: java.security.Provider EMPTY_PROVIDER>]
+Pair description,[$r1 = new org.junit.runner.Description]
+Pair classes,[classes = $r4]
+Pair $r4,[$r4 = new java.util.ArrayList]
+Pair this,[this := @this: org.junit.runner.JUnitCore]
+Pair $r14,[$r2 = $r1[l1]]
+Pair $r7,[$r7 := @caughtexception]
+Pair $r8,[$r8 = newarray (java.lang.annotation.Annotation)[0]]
+Pair l8,[$r0 = new java.util.AbstractList$Itr]
+Pair each,[each = (org.junit.runner.notification.Failure) $r14]
+Pair $r14,[$r3 = l0.<java.util.Collections$SingletonList: java.lang.Object element>]
+Pair @parameter1: java.lang.String[],[args := @parameter1: java.lang.String[]]
+Pair $r12,[$r0 = (java.lang.Object[]) $r0]
+Pair $r14,[$r0 = l0.<sun.security.jca.ProviderList$ServiceList: java.security.Provider$Service firstService>]
+Pair $r9,[$r9 = new org.junit.runner.notification.Failure]
+Pair $r14,[$r2 = l2]
+Pair e,[e = $r7]
+Pair $r1,[$r0 = <java.lang.System: java.io.PrintStream out>]
+Pair system,[system := @parameter0: org.junit.internal.JUnitSystem]
+Pair $r12,[l1 := @parameter0: java.lang.Object[]]
+Pair args,[args := @parameter1: java.lang.String[]]
+Pair l6,[l6 = l6 + 1]
+Pair missingClasses,[missingClasses = $r4]
+Pair failure,[failure = $r9]
+Pair $r15,[$r0 = this.<org.junit.runner.Result: java.util.List fFailures>]
+Pair each,[each = l8[l6]]
+Pair $r10,[$r10 = new org.junit.internal.TextListener]
+Pair $r14,[$r1 = $r0[l1]]
+Pair $r0,[l0 := @this: java.lang.StringBuilder]
+Pair result,[result = $r0]
+Pair @parameter0: org.junit.internal.JUnitSystem,[system := @parameter0: org.junit.internal.JUnitSystem]
+Pair $r13,[$r13 = (java.lang.Class[]) $r12]
+Pair $r3,[$r0 = new java.lang.String]
+Pair l8,[l8 = args]
+Pair $r11,[$r11 = newarray (java.lang.Class)[0]]
+Pair listener,[listener = $r10]
+Pair $r14,[$r0 = (java.security.Provider$Service) $r2]
+Pair l7,[l7 = lengthof args]
+Time elapsed: 812.60936052
+Transforming SimpleTest... 
+Transforming TestRemoveLeakInFunction... 
+Transforming DeleteInOutLoopTest... 
+Transforming DeleteAssignmentInLoopTest... 
+Transforming FuncTypeTest... 
+Transforming TestRemoveNoLeakCall... 
+Transforming TestRemoveLeakingCall... 
+Transforming ExitTest... 
+Transforming TestRemoveLeak... 
+Transforming org.junit.runner.JUnitCore... 
+Writing to sootOutput/SimpleTest.class
+Writing to sootOutput/TestRemoveLeakInFunction.class
+Writing to sootOutput/DeleteInOutLoopTest.class
+Writing to sootOutput/DeleteAssignmentInLoopTest.class
+Writing to sootOutput/FuncTypeTest.class
+Writing to sootOutput/TestRemoveNoLeakCall.class
+Writing to sootOutput/TestRemoveLeakingCall.class
+Writing to sootOutput/ExitTest.class
+Writing to sootOutput/TestRemoveLeak.class
+Writing to sootOutput/org/junit/runner/JUnitCore.class
+Soot finished on Sat Mar 16 02:30:40 CET 2013
+Soot has run for 14 min. 39 sec.
+addCallNoAssignmentJU_Rerun finished.
+Starting addCallNoAssignmentJU_Rerun...
+Soot classpath: /home/sarzt/soot-ifds-original/test/junit-4.10.jar:/home/sarzt/soot-ifds-original/hamcrest-core-1.3.jar:/home/sarzt/soot-ifds-original/bin:/usr/lib/jvm/java-6-sun/jre/lib/rt.jar:/usr/lib/jvm/java-6-sun/jre/lib/jce.jar:C:\Program Files\Java\jre7\lib\rt.jar:C:\Program Files\Java\jre7\lib\jce.jar
+Soot started on Sat Mar 16 02:30:40 CET 2013
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.7 seconds.
+[Spark] Type masks in 0.2 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/ArrayList<Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/ArrayList<Lorg/junit/runner/Runner;>;
+found type: Ljava/util/ArrayList<Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Lorg/junit/runner/Runner;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/lang/Class<*>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/Comparator<Lorg/junit/runner/Description;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Lorg/junit/runners/model/FrameworkMember<TT;>;
+found type: Ljava/util/ArrayList<Ljava/lang/Class<*>;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/ArrayList<Ljava/lang/Class<*>;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/ArrayList<Ljava/lang/Class<*>;>;
+found type: TT;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/Map<Ljava/lang/Class<*>;Ljava/util/List<TT;>;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<TT;>;
+found type: TT;
+found type: Ljava/util/List<TT;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<TT;>;
+found type: TT;
+found type: Ljava/util/List<TT;>;
+found type: TT;
+found type: Ljava/util/List<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/model/FrameworkMember<TT;>;
+found type: TT;
+found type: Ljava/util/Map<Ljava/lang/Class<*>;Ljava/util/List<TT;>;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/Map<Ljava/lang/Class<*>;Ljava/util/List<TT;>;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/Map<Ljava/lang/Class<*>;Ljava/util/List<TT;>;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkField;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkField;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/lang/Iterable<Lorg/junit/rules/TestRule;>;
+found type: Ljava/lang/Iterable<Lorg/junit/rules/TestRule;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<TT;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/lang/Class<TT;>;
+found type: Ljava/util/List<TT;>;
+found type: Ljava/lang/Class<TT;>;
+found type: Ljava/util/List<TT;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/Iterator<Lorg/junit/runner/notification/RunListener;>;
+found type: Ljava/util/Iterator<Lorg/junit/runner/notification/RunListener;>;
+found type: Ljava/util/Iterator<Lorg/junit/runner/notification/RunListener;>;
+found type: Ljava/util/Iterator<Lorg/junit/runner/notification/RunListener;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Lorg/junit/runners/model/RunnerBuilder;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/RunnerBuilder;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Lorg/hamcrest/internal/SelfDescribingValue<TT;>;
+found type: Ljava/util/Iterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Ljava/util/Iterator<TT;>;
+found type: Ljava/util/Iterator<+Lorg/hamcrest/SelfDescribing;>;
+found type: Ljava/util/Iterator<+Lorg/hamcrest/SelfDescribing;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValue<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValue<TT;>;
+found type: TT;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<+Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<+Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<+Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/String;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/String;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/String;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/String;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/reflect/Constructor<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/reflect/Constructor<*>;
+found type: Ljava/lang/reflect/Constructor<*>;
+found type: Ljava/lang/reflect/Constructor<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljunit/framework/TestListener;>;
+found type: Ljava/util/List<Ljunit/framework/TestListener;>;
+found type: Ljava/util/List<Ljunit/framework/TestListener;>;
+found type: Ljava/lang/Class<TT;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/lang/Class<+Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+[Spark] Propagation in 62.4 seconds.
+[Spark] Solution found in 62.4 seconds.
+Running IFDS on initial CFG...
+ICFG created in 0.148247812 seconds.
+Running solver...
+IDE solver done, 3702480 edges propagated.
+Solver done in 521.79032194seconds.
+Pair system,[system := @parameter0: org.junit.internal.JUnitSystem]
+Pair $b0,[$b0 = 1]
+Pair @parameter1: java.lang.String[],[args := @parameter0: java.lang.String[]]
+Pair @parameter0: org.junit.internal.JUnitSystem,[$r0 = new org.junit.internal.RealSystem]
+Pair $r0,[$r0 = new org.junit.runner.JUnitCore]
+Old main class: org.junit.runner.JUnitCore - new: org.junit.runner.JUnitCore
+Updating entry points took 7.0381E-5seconds
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.0 seconds.
+[Spark] Type masks in 0.2 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+[Spark] Propagation in 21.2 seconds.
+[Spark] Solution found in 21.2 seconds.
+Updating callgraph took 22.197697049seconds
+Updating reachable methods took 7.892E-6seconds
+Graph patched in 22.382001849 seconds.
+IDE solver done, 3702501 edges propagated.
+Pair $r14,[$r0 = (java.security.Provider$Service) $r2]
+Pair $z0,[$z0 = 1]
+Pair $r14,[$r3 = l0.<java.util.Collections$CopiesList: java.lang.Object element>]
+Pair $r14,[$r2 = $r1[l1]]
+Pair $r12,[$r0 = (java.lang.Object[]) $r0]
+Pair @parameter0: org.junit.internal.JUnitSystem,[system := @parameter0: org.junit.internal.JUnitSystem]
+Pair each,[each = (org.junit.runner.notification.Failure) $r14]
+Pair $r9,[$r9 = new org.junit.runner.notification.Failure]
+Pair $r4,[$r4 = new java.util.ArrayList]
+Pair e,[e = $r7]
+Pair $r14,[$r1 = $r0[l1]]
+Pair $r10,[$r10 = new org.junit.internal.TextListener]
+Pair $r0,[l0 := @this: java.lang.StringBuilder]
+Pair each,[each = l8[l6]]
+Pair l8,[l8 = args]
+Pair $r14,[$r1 = $r0.<java.util.LinkedList$Entry: java.lang.Object element>]
+Pair $r14,[$r2 = l2]
+Pair args,[args := @parameter1: java.lang.String[]]
+Pair $r14,[$r3 = l0.<java.util.Collections$SingletonList: java.lang.Object element>]
+Pair missingClasses,[missingClasses = $r4]
+Pair l7,[l7 = lengthof args]
+Pair $r15,[$r0 = this.<org.junit.runner.Result: java.util.List fFailures>]
+Pair $r8,[$r8 = newarray (java.lang.annotation.Annotation)[0]]
+Pair this,[this := @this: org.junit.runner.JUnitCore]
+Pair $r11,[$r11 = newarray (java.lang.Class)[0]]
+Pair l8,[$r0 = new java.util.AbstractList$Itr]
+Pair $r14,[$r2 = <sun.security.jca.ProviderList: java.security.Provider EMPTY_PROVIDER>]
+Pair l6,[l6 = l6 + 1]
+Pair l6,[l6 = 0]
+Pair result,[result = $r0]
+Pair $r13,[$r13 = (java.lang.Class[]) $r12]
+Pair $r14,[$r0 = l0.<sun.security.jca.ProviderList$ServiceList: java.security.Provider$Service firstService>]
+Pair @parameter1: java.lang.String[],[args := @parameter1: java.lang.String[]]
+Pair $z0,[$z0 = 0]
+Pair $r7,[$r7 := @caughtexception]
+Pair system,[system := @parameter0: org.junit.internal.JUnitSystem]
+Pair classes,[classes = $r4]
+Pair failure,[failure = $r9]
+Pair $r14,[$r1 = $r0[l1]]
+Pair listener,[listener = $r10]
+Pair description,[$r1 = new org.junit.runner.Description]
+Pair $r3,[$r0 = new java.lang.String]
+Pair $r12,[l1 := @parameter0: java.lang.Object[]]
+Pair $r1,[$r0 = <java.lang.System: java.io.PrintStream out>]
+Time elapsed: 977.314821591
+Transforming SimpleTest... 
+Transforming TestRemoveLeakInFunction... 
+Transforming DeleteInOutLoopTest... 
+Transforming DeleteAssignmentInLoopTest... 
+Transforming FuncTypeTest... 
+Transforming TestRemoveNoLeakCall... 
+Transforming TestRemoveLeakingCall... 
+Transforming ExitTest... 
+Transforming TestRemoveLeak... 
+Transforming org.junit.runner.JUnitCore... 
+Writing to sootOutput/SimpleTest.class
+Writing to sootOutput/TestRemoveLeakInFunction.class
+Writing to sootOutput/DeleteInOutLoopTest.class
+Writing to sootOutput/DeleteAssignmentInLoopTest.class
+Writing to sootOutput/FuncTypeTest.class
+Writing to sootOutput/TestRemoveNoLeakCall.class
+Writing to sootOutput/TestRemoveLeakingCall.class
+Writing to sootOutput/ExitTest.class
+Writing to sootOutput/TestRemoveLeak.class
+Writing to sootOutput/org/junit/runner/JUnitCore.class
+Soot finished on Sat Mar 16 02:48:04 CET 2013
+Soot has run for 17 min. 24 sec.
+addCallNoAssignmentJU_Rerun finished.
+Starting addCallNoAssignmentJU_Rerun...
+Soot classpath: /home/sarzt/soot-ifds-original/test/junit-4.10.jar:/home/sarzt/soot-ifds-original/hamcrest-core-1.3.jar:/home/sarzt/soot-ifds-original/bin:/usr/lib/jvm/java-6-sun/jre/lib/rt.jar:/usr/lib/jvm/java-6-sun/jre/lib/jce.jar:C:\Program Files\Java\jre7\lib\rt.jar:C:\Program Files\Java\jre7\lib\jce.jar
+Soot started on Sat Mar 16 02:48:04 CET 2013
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.7 seconds.
+[Spark] Type masks in 0.2 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/ArrayList<Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/ArrayList<Lorg/junit/runner/Runner;>;
+found type: Ljava/util/ArrayList<Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Lorg/junit/runner/Runner;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/lang/Class<*>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/Comparator<Lorg/junit/runner/Description;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Lorg/junit/runners/model/FrameworkMember<TT;>;
+found type: Ljava/util/ArrayList<Ljava/lang/Class<*>;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/ArrayList<Ljava/lang/Class<*>;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/ArrayList<Ljava/lang/Class<*>;>;
+found type: TT;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/Map<Ljava/lang/Class<*>;Ljava/util/List<TT;>;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<TT;>;
+found type: TT;
+found type: Ljava/util/List<TT;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<TT;>;
+found type: TT;
+found type: Ljava/util/List<TT;>;
+found type: TT;
+found type: Ljava/util/List<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/model/FrameworkMember<TT;>;
+found type: TT;
+found type: Ljava/util/Map<Ljava/lang/Class<*>;Ljava/util/List<TT;>;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/Map<Ljava/lang/Class<*>;Ljava/util/List<TT;>;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/Map<Ljava/lang/Class<*>;Ljava/util/List<TT;>;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkField;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkField;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/lang/Iterable<Lorg/junit/rules/TestRule;>;
+found type: Ljava/lang/Iterable<Lorg/junit/rules/TestRule;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<TT;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/lang/Class<TT;>;
+found type: Ljava/util/List<TT;>;
+found type: Ljava/lang/Class<TT;>;
+found type: Ljava/util/List<TT;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/Iterator<Lorg/junit/runner/notification/RunListener;>;
+found type: Ljava/util/Iterator<Lorg/junit/runner/notification/RunListener;>;
+found type: Ljava/util/Iterator<Lorg/junit/runner/notification/RunListener;>;
+found type: Ljava/util/Iterator<Lorg/junit/runner/notification/RunListener;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Lorg/junit/runners/model/RunnerBuilder;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/RunnerBuilder;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Lorg/hamcrest/internal/SelfDescribingValue<TT;>;
+found type: Ljava/util/Iterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Ljava/util/Iterator<TT;>;
+found type: Ljava/util/Iterator<+Lorg/hamcrest/SelfDescribing;>;
+found type: Ljava/util/Iterator<+Lorg/hamcrest/SelfDescribing;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValue<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValue<TT;>;
+found type: TT;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<+Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<+Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<+Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/String;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/String;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/String;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/String;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/reflect/Constructor<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/reflect/Constructor<*>;
+found type: Ljava/lang/reflect/Constructor<*>;
+found type: Ljava/lang/reflect/Constructor<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljunit/framework/TestListener;>;
+found type: Ljava/util/List<Ljunit/framework/TestListener;>;
+found type: Ljava/util/List<Ljunit/framework/TestListener;>;
+found type: Ljava/lang/Class<TT;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/lang/Class<+Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+[Spark] Propagation in 57.3 seconds.
+[Spark] Solution found in 57.3 seconds.
+Running IFDS on initial CFG...
+ICFG created in 0.136165596 seconds.
+Running solver...
+IDE solver done, 3702479 edges propagated.
+Solver done in 393.63344448seconds.
+Pair @parameter0: org.junit.internal.JUnitSystem,[$r0 = new org.junit.internal.RealSystem]
+Pair args,[args := @parameter1: java.lang.String[]]
+Pair system,[system := @parameter0: org.junit.internal.JUnitSystem]
+Pair $b0,[$b0 = 1]
+Pair result,[result = $r0]
+Pair $r0,[$r0 = new org.junit.runner.JUnitCore]
+Old main class: org.junit.runner.JUnitCore - new: org.junit.runner.JUnitCore
+Updating entry points took 7.0686E-5seconds
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.0 seconds.
+[Spark] Type masks in 0.2 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+[Spark] Propagation in 22.1 seconds.
+[Spark] Solution found in 22.1 seconds.
+Updating callgraph took 23.170274802seconds
+Updating reachable methods took 8.592E-6seconds
+Graph patched in 23.35847566 seconds.
+IDE solver done, 3702502 edges propagated.
+Pair $r14,[$r1 = $r0[l1]]
+Pair $r0,[l0 := @this: java.lang.StringBuilder]
+Pair $r14,[$r1 = $r0.<java.util.LinkedList$Entry: java.lang.Object element>]
+Pair result,[result = $r0]
+Pair each,[each = (org.junit.runner.notification.Failure) $r14]
+Pair $r10,[$r10 = new org.junit.internal.TextListener]
+Pair $z0,[$z0 = 1]
+Pair $r14,[$r3 = l0.<java.util.Collections$CopiesList: java.lang.Object element>]
+Pair @parameter1: java.lang.String[],[args := @parameter1: java.lang.String[]]
+Pair this,[this := @this: org.junit.runner.JUnitCore]
+Pair $r14,[$r3 = l0.<java.util.Collections$SingletonList: java.lang.Object element>]
+Pair $r7,[$r7 := @caughtexception]
+Pair $r3,[$r0 = new java.lang.String]
+Pair failure,[failure = $r9]
+Pair $r14,[$r0 = l0.<sun.security.jca.ProviderList$ServiceList: java.security.Provider$Service firstService>]
+Pair $r4,[$r4 = new java.util.ArrayList]
+Pair $r14,[$r1 = $r0[l1]]
+Pair listener,[listener = $r10]
+Pair $r14,[$r2 = l2]
+Pair e,[e = $r7]
+Pair $z0,[$z0 = 0]
+Pair l8,[l8 = args]
+Pair $r12,[l1 := @parameter0: java.lang.Object[]]
+Pair args,[args := @parameter1: java.lang.String[]]
+Pair missingClasses,[missingClasses = $r4]
+Pair system,[system := @parameter0: org.junit.internal.JUnitSystem]
+Pair @parameter0: org.junit.internal.JUnitSystem,[system := @parameter0: org.junit.internal.JUnitSystem]
+Pair $r14,[$r0 = (java.security.Provider$Service) $r2]
+Pair $r14,[$r2 = $r1[l1]]
+Pair $r12,[$r0 = (java.lang.Object[]) $r0]
+Pair l8,[$r0 = new java.util.AbstractList$Itr]
+Pair l6,[l6 = 0]
+Pair $r8,[$r8 = newarray (java.lang.annotation.Annotation)[0]]
+Pair description,[$r1 = new org.junit.runner.Description]
+Pair $r13,[$r13 = (java.lang.Class[]) $r12]
+Pair l7,[l7 = lengthof args]
+Pair $r9,[$r9 = new org.junit.runner.notification.Failure]
+Pair $r15,[$r0 = this.<org.junit.runner.Result: java.util.List fFailures>]
+Pair $r11,[$r11 = newarray (java.lang.Class)[0]]
+Pair classes,[classes = $r4]
+Pair each,[each = l8[l6]]
+Pair $r1,[$r0 = <java.lang.System: java.io.PrintStream out>]
+Pair l6,[l6 = l6 + 1]
+Pair $r14,[$r2 = <sun.security.jca.ProviderList: java.security.Provider EMPTY_PROVIDER>]
+Time elapsed: 912.759532664
+Transforming SimpleTest... 
+Transforming TestRemoveLeakInFunction... 
+Transforming DeleteInOutLoopTest... 
+Transforming DeleteAssignmentInLoopTest... 
+Transforming FuncTypeTest... 
+Transforming TestRemoveNoLeakCall... 
+Transforming TestRemoveLeakingCall... 
+Transforming ExitTest... 
+Transforming TestRemoveLeak... 
+Transforming org.junit.runner.JUnitCore... 
+Writing to sootOutput/SimpleTest.class
+Writing to sootOutput/TestRemoveLeakInFunction.class
+Writing to sootOutput/DeleteInOutLoopTest.class
+Writing to sootOutput/DeleteAssignmentInLoopTest.class
+Writing to sootOutput/FuncTypeTest.class
+Writing to sootOutput/TestRemoveNoLeakCall.class
+Writing to sootOutput/TestRemoveLeakingCall.class
+Writing to sootOutput/ExitTest.class
+Writing to sootOutput/TestRemoveLeak.class
+Writing to sootOutput/org/junit/runner/JUnitCore.class
+Soot finished on Sat Mar 16 03:04:19 CET 2013
+Soot has run for 16 min. 14 sec.
+addCallNoAssignmentJU_Rerun finished.
+Starting addCallNoAssignmentJU_Rerun...
+Soot classpath: /home/sarzt/soot-ifds-original/test/junit-4.10.jar:/home/sarzt/soot-ifds-original/hamcrest-core-1.3.jar:/home/sarzt/soot-ifds-original/bin:/usr/lib/jvm/java-6-sun/jre/lib/rt.jar:/usr/lib/jvm/java-6-sun/jre/lib/jce.jar:C:\Program Files\Java\jre7\lib\rt.jar:C:\Program Files\Java\jre7\lib\jce.jar
+Soot started on Sat Mar 16 03:04:19 CET 2013
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.7 seconds.
+[Spark] Type masks in 0.2 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/ArrayList<Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/ArrayList<Lorg/junit/runner/Runner;>;
+found type: Ljava/util/ArrayList<Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Lorg/junit/runner/Runner;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/lang/Class<*>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/Comparator<Lorg/junit/runner/Description;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Lorg/junit/runners/model/FrameworkMember<TT;>;
+found type: Ljava/util/ArrayList<Ljava/lang/Class<*>;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/ArrayList<Ljava/lang/Class<*>;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/ArrayList<Ljava/lang/Class<*>;>;
+found type: TT;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/Map<Ljava/lang/Class<*>;Ljava/util/List<TT;>;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<TT;>;
+found type: TT;
+found type: Ljava/util/List<TT;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<TT;>;
+found type: TT;
+found type: Ljava/util/List<TT;>;
+found type: TT;
+found type: Ljava/util/List<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/model/FrameworkMember<TT;>;
+found type: TT;
+found type: Ljava/util/Map<Ljava/lang/Class<*>;Ljava/util/List<TT;>;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/Map<Ljava/lang/Class<*>;Ljava/util/List<TT;>;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/Map<Ljava/lang/Class<*>;Ljava/util/List<TT;>;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkField;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkField;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/lang/Iterable<Lorg/junit/rules/TestRule;>;
+found type: Ljava/lang/Iterable<Lorg/junit/rules/TestRule;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/List<TT;>;
+found type: Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;
+found type: Ljava/lang/Class<TT;>;
+found type: Ljava/util/List<TT;>;
+found type: Ljava/lang/Class<TT;>;
+found type: Ljava/util/List<TT;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: TT;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Lorg/junit/runners/ParentRunner<TT;>;
+found type: Ljava/util/Iterator<Lorg/junit/runner/notification/RunListener;>;
+found type: Ljava/util/Iterator<Lorg/junit/runner/notification/RunListener;>;
+found type: Ljava/util/Iterator<Lorg/junit/runner/notification/RunListener;>;
+found type: Ljava/util/Iterator<Lorg/junit/runner/notification/RunListener;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Lorg/junit/runners/model/RunnerBuilder;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/RunnerBuilder;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Lorg/hamcrest/internal/SelfDescribingValue<TT;>;
+found type: Ljava/util/Iterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Ljava/util/Iterator<TT;>;
+found type: Ljava/util/Iterator<+Lorg/hamcrest/SelfDescribing;>;
+found type: Ljava/util/Iterator<+Lorg/hamcrest/SelfDescribing;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValueIterator<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValue<TT;>;
+found type: Lorg/hamcrest/internal/SelfDescribingValue<TT;>;
+found type: TT;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<+Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<+Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<+Lorg/junit/runner/Runner;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/String;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/String;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/String;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/String;>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/reflect/Constructor<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/reflect/Constructor<*>;
+found type: Ljava/lang/reflect/Constructor<*>;
+found type: Ljava/lang/reflect/Constructor<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/lang/Class<*>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Ljunit/framework/TestListener;>;
+found type: Ljava/util/List<Ljunit/framework/TestListener;>;
+found type: Ljava/util/List<Ljunit/framework/TestListener;>;
+found type: Ljava/lang/Class<TT;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+found type: Ljava/lang/Class<+Ljava/lang/Throwable;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+found type: Ljava/util/List<Lorg/junit/rules/TestRule;>;
+[Spark] Propagation in 57.8 seconds.
+[Spark] Solution found in 57.8 seconds.
+Running IFDS on initial CFG...
+ICFG created in 0.139138905 seconds.
+Running solver...
+IDE solver done, 3702479 edges propagated.
+Solver done in 503.807942176seconds.
+Pair result,[result = $r0]
+Pair $r0,[$r0 = new org.junit.runner.JUnitCore]
+Old main class: org.junit.runner.JUnitCore - new: org.junit.runner.JUnitCore
+Updating entry points took 6.5554E-5seconds
+[Call Graph] For information on where the call graph may be incomplete, use the verbose option to the cg phase.
+[Spark] Pointer Assignment Graph in 0.0 seconds.
+[Spark] Type masks in 0.2 seconds.
+[Spark] Pointer Graph simplified in 0.0 seconds.
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+found type: Ljava/util/List<Ljava/lang/Class<*>;>;
+found type: Ljava/util/List<Lorg/junit/runner/notification/Failure;>;
+[Spark] Propagation in 18.9 seconds.
+[Spark] Solution found in 18.9 seconds.
+Updating callgraph took 19.953647339seconds
+Updating reachable methods took 8.337E-6seconds
+Graph patched in 20.102173992 seconds.
+IDE solver done, 3702501 edges propagated.
+Pair $r14,[$r0 = (java.security.Provider$Service) $r2]
+Pair $r14,[$r1 = $r0[l1]]
+Pair $r9,[$r9 = new org.junit.runner.notification.Failure]
+Pair $r1,[$r0 = <java.lang.System: java.io.PrintStream out>]
+Pair $r4,[$r4 = new java.util.ArrayList]
+Pair $z0,[$z0 = 1]
+Pair $r11,[$r11 = newarray (java.lang.Class)[0]]
+Pair $r10,[$r10 = new org.junit.internal.TextListener]
+Pair description,[$r1 = new org.junit.runner.Description]
+Pair $r14,[$r2 = $r1[l1]]
+Pair l6,[l6 = l6 + 1]
+Pair listener,[listener = $r10]
+Pair @parameter1: java.lang.String[],[args := @parameter1: java.lang.String[]]
+Pair $r14,[$r0 = l0.<sun.security.jca.ProviderList$ServiceList: java.security.Provider$Service firstService>]
+Pair each,[each = (org.junit.runner.notification.Failure) $r14]
+Pair l7,[l7 = lengthof args]
+Pair this,[this := @this: org.junit.runner.JUnitCore]
+Pair $r0,[l0 := @this: java.lang.StringBuilder]
+Pair missingClasses,[missingClasses = $r4]
+Pair $r14,[$r2 = l2]
+Pair $r14,[$r3 = l0.<java.util.Collections$CopiesList: java.lang.Object element>]
+Pair $r14,[$r1 = $r0[l1]]
+Pair e,[e = $r7]
+Pair $r12,[l1 := @parameter0: java.lang.Object[]]
+Pair $r13,[$r13 = (java.lang.Class[]) $r12]
+Pair $r14,[$r1 = $r0.<java.util.LinkedList$Entry: java.lang.Object element>]
+Pair @parameter0: org.junit.internal.JUnitSystem,[system := @parameter0: org.junit.internal.JUnitSystem]
+Pair failure,[failure = $r9]
+Pair classes,[classes = $r4]
+Pair $r7,[$r7 := @caughtexception]
+Pair system,[system := @parameter0: org.junit.internal.JUnitSystem]
+Pair $z0,[$z0 = 0]
+Pair l8,[l8 = args]
+Pair $r14,[$r2 = <sun.security.jca.ProviderList: java.security.Provider EMPTY_PROVIDER>]
+Pair $r8,[$r8 = newarray (java.lang.annotation.Annotation)[0]]
+Pair $r14,[$r3 = l0.<java.util.Collections$SingletonList: java.lang.Object element>]
+Pair l8,[$r0 = new java.util.AbstractList$Itr]
+Pair $r12,[$r0 = (java.lang.Object[]) $r0]
+Pair l6,[l6 = 0]
+Pair result,[result = $r0]
+Pair each,[each = l8[l6]]
+Pair args,[args := @parameter1: java.lang.String[]]
+Pair $r15,[$r0 = this.<org.junit.runner.Result: java.util.List fFailures>]
+Pair $r3,[$r0 = new java.lang.String]
+Time elapsed: 896.436538753
+Transforming SimpleTest... 
+Transforming TestRemoveLeakInFunction... 
+Transforming DeleteInOutLoopTest... 
+Transforming DeleteAssignmentInLoopTest... 
+Transforming FuncTypeTest... 
+Transforming TestRemoveNoLeakCall... 
+Transforming TestRemoveLeakingCall... 
+Transforming ExitTest... 
+Transforming TestRemoveLeak... 
+Transforming org.junit.runner.JUnitCore... 
+Writing to sootOutput/SimpleTest.class
+Writing to sootOutput/TestRemoveLeakInFunction.class
+Writing to sootOutput/DeleteInOutLoopTest.class
+Writing to sootOutput/DeleteAssignmentInLoopTest.class
+Writing to sootOutput/FuncTypeTest.class
+Writing to sootOutput/TestRemoveNoLeakCall.class
+Writing to sootOutput/TestRemoveLeakingCall.class
+Writing to sootOutput/ExitTest.class
+Writing to sootOutput/TestRemoveLeak.class
+Writing to sootOutput/org/junit/runner/JUnitCore.class
+Soot finished on Sat Mar 16 03:20:18 CET 2013
+Soot has run for 15 min. 58 sec.
+addCallNoAssignmentJU_Rerun finished.
+Test run was successful
